@@ -50,3 +50,36 @@ CSS-Overview-static-website-task-1/
 ├── outdoorplay.jpg
 ├── lego.jpg
 └── toycars.jpg
+
+Live Website
+
+The website is available at:
+
+https://jauques.github.io/CSS-Overview-static-website-task-1/
+
+Installation
+
+To run locally:
+
+Download or clone the repository.
+Open the project folder.
+Double-click index.html.
+
+Alternatively, open the project using Visual Studio Code and launch with Live Server.
+
+Learning Outcomes
+
+This project demonstrates:
+
+Basic HTML document creation
+CSS styling techniques
+Image handling in web pages
+GitHub repository management
+GitHub Pages deployment
+Author
+
+Jacques Scheepers
+
+Microsoft 365 Engineer
+
+GitHub: https://github.com/jauques
